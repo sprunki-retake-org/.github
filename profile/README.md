@@ -17,7 +17,7 @@ Sprunki Retake is a revamped and exciting online game experience.  Explore new c
 
 ## What is Sprunki Retake? <a name="what-is-sprunki-retake"></a>
 
-Sprunki Retake offers a fresh take on the classic Sprunki gameplay with updated features and exciting new challenges. While enjoying Sprunki Retake, you may also find value in exploring creative AI tools like the [Best Text & Writing Tools](https://tyy.ai/category/text-writing/), the [Best AI Chatbot Tools](https://aigo.tools/chatbot), or the innovative [AI Comic Factory](https://ai-comicfactory.com/).
+Sprunki Retake offers a fresh take on the classic Sprunki gameplay with updated features and exciting new challenges. While enjoying Sprunki Retake, you may also find value in exploring creative AI tools like the [AI Tools](https://tyy.ai), the [Best AI Tools](https://aigo.tools), or the innovative [AI Comic Factory](https://ai-comicfactory.com/).
 
 
 ---
